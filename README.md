@@ -1,4 +1,11 @@
-# ReactTS + Vite Frontend Boilerplate
+# Arkhia Workbench
+
+A UX friendly augmented UI (ReactJs) to navigate Hedera's APIs and (optional) inhouse Arkhia APIs. Experiment with the available endpoints, example payloads, code samples and schema viewers to get you started quickly on integrating your Dapp with Hedera.
+
+
+# TechStack
+
+ ## ReactTS + Vite Frontend Boilerplate
 
 A simple boilerplate loaded with a few bleeding-edge packages, a new bundler called Vite, sprinkled with MUI (v5), React Router (v6), and multilingual support with LinguiJS.
 
